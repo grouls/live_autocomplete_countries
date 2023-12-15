@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: white;
+  width: inherit;
+}
+
+.listItem0 {
+  font-weight: bolder;
+}
